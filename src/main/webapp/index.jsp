@@ -1,5 +1,6 @@
 <html>
 <head>
+  <link rel="stylesheet" type="text/css" href="theme.css">	
 	<script src="myscripts.js"></script>
 	<title>Welcome<title>
 </head>
